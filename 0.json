@@ -1,0 +1,12 @@
+{
+  "id": 10001,
+  "name": "Electric Sound 2025 – VIP Access Pass",
+  "image": "https://gateway.pinata.cloud/ipfs/bafybeiarquybbtgvsnis3ye2mayqxr2aujzc3c6oedtjgzwncq74knq5ui",
+  "description": "Access pass to Electric Sound 2025 with exclusive benefits.",
+  "attributes": [
+    { "trait_type": "Concert Name", "value": "Electric Sound 2025" },
+    { "trait_type": "Date & Time", "value": "20 December 2025, 7:00 PM" },
+    { "trait_type": "Utility", "value": "Free Drink + Backstage Pass" },
+    { "trait_type": "Seat Zone", "value": "Festival A" }
+  ]
+}

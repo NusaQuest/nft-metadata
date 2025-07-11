@@ -1,0 +1,12 @@
+{
+  "id": 10003,
+  "name": "IndoWaves 2025 – Early Bird Token",
+  "image": "https://gateway.pinata.cloud/ipfs/bafybeickwdqexlbexw3kki7zbbtgrxobpewn4snoynvanpzl6gcuv7tkjq",
+  "description": "Early access NFT ticket to IndoWaves 2025 concert.",
+  "attributes": [
+    { "trait_type": "Concert Name", "value": "IndoWaves 2025" },
+    { "trait_type": "Date & Time", "value": "5 November 2025, 6:00 PM" },
+    { "trait_type": "Utility", "value": "Free Drink" },
+    { "trait_type": "Seat Zone", "value": "General Admission" }
+  ]
+}

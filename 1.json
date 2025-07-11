@@ -1,0 +1,12 @@
+{
+  "id": 10002,
+  "name": "Neon Beats Festival – Golden Vibe NFT",
+  "image": "https://gateway.pinata.cloud/ipfs/bafybeidcyl6eaip6zakmbje6s2qn4uvimr2u4zkwbrxz5nggtmfcx5c53m",
+  "description": "Exclusive NFT for VIP guests at Neon Beats Festival.",
+  "attributes": [
+    { "trait_type": "Concert Name", "value": "Neon Beats Festival" },
+    { "trait_type": "Date & Time", "value": "10 September 2025, 9:00 PM" },
+    { "trait_type": "Utility", "value": "Exclusive Merch Pack" },
+    { "trait_type": "Seat Zone", "value": "VIP Front Row" }
+  ]
+}

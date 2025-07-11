@@ -1,0 +1,12 @@
+{
+  "id": 10005,
+  "name": "Orbit Sound Night – SkyLight Token",
+  "image": "https://gateway.pinata.cloud/ipfs/bafybeih4ktttl77csdok25fjjgnjbaodixsipxxsajfkzw5hiptqw2gz6q",
+  "description": "Exclusive NFT for Orbit Sound Night with digital and physical perks.",
+  "attributes": [
+    { "trait_type": "Concert Name", "value": "Orbit Sound Night" },
+    { "trait_type": "Date & Time", "value": "1 October 2025, 7:30 PM" },
+    { "trait_type": "Utility", "value": "2 Free Drinks + NFT Poster" },
+    { "trait_type": "Seat Zone", "value": "Galaxy Circle" }
+  ]
+}

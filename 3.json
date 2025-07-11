@@ -1,0 +1,12 @@
+{
+  "id": 10004,
+  "name": "Java Jam 2025 – StageFront Pass",
+  "image": "https://gateway.pinata.cloud/ipfs/bafybeic5lpehinvteu53p2j6uegkj7iarcwxifl3bc47xrxjo4nji4gzfi",
+  "description": "Front row NFT ticket for Java Jam 2025 with VIP Lounge access.",
+  "attributes": [
+    { "trait_type": "Concert Name", "value": "Java Jam 2025" },
+    { "trait_type": "Date & Time", "value": "15 August 2025, 8:00 PM" },
+    { "trait_type": "Utility", "value": "VIP Lounge Access" },
+    { "trait_type": "Seat Zone", "value": "Front Pit Zone" }
+  ]
+}
