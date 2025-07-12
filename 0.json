@@ -7,6 +7,7 @@
     { "trait_type": "Concert Name", "value": "Electric Sound 2025" },
     { "trait_type": "Date & Time", "value": "20 December 2025, 7:00 PM" },
     { "trait_type": "Utility", "value": "Free Drink + Backstage Pass" },
-    { "trait_type": "Seat Zone", "value": "Festival A" }
+    { "trait_type": "Seat Zone", "value": "Festival A" },
+    { "trait_type": "Price", "value": "100 $NUSA" }
   ]
 }
