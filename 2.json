@@ -8,6 +8,6 @@
     { "trait_type": "Date & Time", "value": "5 November 2025, 6:00 PM" },
     { "trait_type": "Utility", "value": "Free Drink" },
     { "trait_type": "Seat Zone", "value": "General Admission" },
-    { "trait_type": "Price", "value": "40 NUSA" }
+    { "trait_type": "Price", "value": 100 }
   ]
 }

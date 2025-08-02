@@ -8,6 +8,6 @@
     { "trait_type": "Date & Time", "value": "10 September 2025, 9:00 PM" },
     { "trait_type": "Utility", "value": "Exclusive Merch Pack" },
     { "trait_type": "Seat Zone", "value": "VIP Front Row" },
-    { "trait_type": "Price", "value": "40 NUSA" }
+    { "trait_type": "Price", "value": 100 }
   ]
 }
